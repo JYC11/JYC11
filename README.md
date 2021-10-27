@@ -9,6 +9,11 @@
 * I plan to pursue topics that CS students usually learn in school such as OS, DS&A, Compilers, DB, Networks, etc
 * I'm aiming to get a job as a backend dev or data engineer.
 
+## Currently Studying
+* Django For Beginners
+* Operating Systems
+* Data Structures and Algorithms
+
 ## Current Project(s)
 * none yet
 
