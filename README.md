@@ -10,11 +10,17 @@
 * I'm aiming to get a job as a backend dev or data engineer.
 
 ## Currently Studying
-* Django For Professionals
+* Django
+
+
+## Hiatus
+Burnt out on DS&A
 * Data Structures and Algorithms
 
-## To study
+## Reading Stuff Casually
 * Operating Systems
+* Networks
+* Databases
 
 ## Current Project(s)
 * none yet
