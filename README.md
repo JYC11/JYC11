@@ -8,10 +8,9 @@
 
 ## Currently Studying
 * Django
+* Data Structures and Algorithms
 
 ## Hiatus
-Burnt out on DS&A
-* Data Structures and Algorithms
 
 ## Reading Stuff Casually
 * Operating Systems
