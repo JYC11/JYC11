@@ -7,10 +7,11 @@
 * I'm aiming to get a job as a backend dev or data engineer.
 
 ## Currently Studying
-* Django
+* Full stack Typescript development
 * Data Structures and Algorithms
 
 ## Hiatus
+* Django
 
 ## Reading Stuff Casually
 * Operating Systems
