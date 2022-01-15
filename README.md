@@ -7,7 +7,7 @@
 * I'm aiming to get a job as a backend dev or data engineer.
 
 ## Currently Studying
-* Full stack Typescript development
+* Backend Typescript development with Nest.js(maybe study React??) idk I feel overwhelmed
 * Data Structures and Algorithms
 
 ## Hiatus
