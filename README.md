@@ -6,12 +6,14 @@
 * The languages I mainly use are Python and JavaScript
 * I'm aiming to get a job as a backend dev or data engineer.
 
-## Currently Studying
-* Backend Typescript development with Nest.js(maybe study React??) idk I feel overwhelmed
+## Currently Studying/Doing Projects
+* Nest.js, TypeOrm, Passport, Jest ~> learning what goes where and stuff.
+* Django Ecommerce project
+* Crash-course-ing React. I'm mainly a backend guy for now but I want to go full stack so I can be more flexible in when I create stuff.
 * Data Structures and Algorithms
 
 ## Hiatus
-* Django
+* None atm
 
 ## Reading Stuff Casually
 * Operating Systems
