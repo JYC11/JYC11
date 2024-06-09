@@ -5,6 +5,10 @@
 * Backend Developer
 * Most experienced in Python but always willing to learn and use other tech
 * I use Kotlin/Spring at work(Smatch Corporation)
+* I also sometimes do workshops at CodeSeoul, a non-profit organization. Here are some of my talks:
+* https://www.youtube.com/watch?v=wxfNSbJBa3E
+* https://www.youtube.com/watch?v=ZvaDGH_cBs0
+* https://www.youtube.com/watch?v=fSMlATky6yE
 
 ## Currently Studying
 * Mainly focusing on Compilers now
