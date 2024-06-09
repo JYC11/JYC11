@@ -14,7 +14,7 @@
 ## WIP project: FastAPI template
 * https://github.com/JYC11/fastapi-template
 * iterating on the project below but really reducing the scope so I can flesh out some parts of the project I wasn't satisfied about
-* thins I'm improving: dynamic repository depdency injection in unit of work, hopefully simpler depdency injection in message bus, better error handling/logging, adding a job store ...
+* things I'm improving: dynamic repository depdency injection in unit of work, hopefully simpler depdency injection in message bus, better error handling/logging, adding a job store ...
 
 ## Most Recent Project(s) displaying my skills
 * https://github.com/JYC11/fastapi-bug-tracker
