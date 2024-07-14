@@ -12,6 +12,7 @@
 
 ## Currently Studying
 * Mainly focusing on Compilers now
+  * I wrote an intepreter in python by following a book: https://github.com/JYC11/py-monkey-interpreted 
 * Bits and pieces of reading here and there
 * Sometimes a bit of CS theory, sometimes a bit of Software Engineering theory
 
