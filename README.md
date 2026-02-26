@@ -18,3 +18,4 @@
 ## WIP project: Koupang
 * github.com/JYC11/koupang
 * experimenting with LLM based workflows
+* using rust to build microservices
