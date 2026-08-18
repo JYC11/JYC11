@@ -2,23 +2,5 @@
 
 
 ## About
-* Backend Developer
-* I used Kotlin/Spring at DNK
-* I also sometimes do workshops at CodeSeoul, a non-profit organization. Here are some of my talks:
-* https://www.youtube.com/watch?v=wxfNSbJBa3E
-* https://www.youtube.com/watch?v=ZvaDGH_cBs0
-* https://www.youtube.com/watch?v=fSMlATky6yE
-
-## Currently Studying
-* Started working on the the MSCS program from CU Boulder
-* Bits and pieces of reading here and there
-* Sometimes a bit of CS theory, sometimes a bit of Software Engineering theory
-
-## WIP project: Koupang
-* github.com/JYC11/koupang
-* experimenting with LLM based workflows
-* using rust to build microservices
-
-## Finished project
-* github.com/JYC11/filament
-* I built a custom tool for LLMs to use as a knowledge graph
+- Software engineer at Obsidian Systems LLC
+- working on an OSS
